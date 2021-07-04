@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace hoangtu\phpmvc;
 
-use app\core\database\Database;
-use app\core\database\DbModel;
+use hoangtu\phpmvc\database\Database;
+use hoangtu\phpmvc\database\DbModel;
 use app\models\User;
 
 class Application

@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace hoangtu\phpmvc;
 
-use app\core\exceptions\NotFoundException;
+use hoangtu\phpmvc\exceptions\NotFoundException;
 
 class Router
 {
@@ -40,7 +40,7 @@ class Router
             return $this->view->renderView($callback);
         }
         if (is_array($callback)) {
-            //** @var \app\core\Controller $controller */
+            //** @var \hoangtu\phpmvc\Controller $controller */
             $base_controler = new $callback[0]();
             Application::$app->base_controller = $base_controler;
             $base_controler->action =  $callback[1];

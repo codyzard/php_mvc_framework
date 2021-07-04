@@ -6,5 +6,10 @@
             "email": "mrahn1234@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "hoangtu\\phpmvc\\": "."
+        }
+    }
 }
