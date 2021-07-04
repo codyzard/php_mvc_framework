@@ -6,10 +6,11 @@
             "email": "mrahn1234@gmail.com"
         }
     ],
-    "require": {},
     "autoload": {
         "psr-4":{
             "hoangtu\\phpmvc\\": "."
         }
-    }
+    },
+    "require": {},
+    "minimum-stability": "dev"
 }
