@@ -10,7 +10,5 @@
     "psr-4": {
       "hoangtu\\": "."
     }
-  },
-  "require": {},
-  "minimum-stability": "dev"
+  }
 }
