@@ -1,6 +1,6 @@
 <?php
 
-namespace hoangtu\core\exceptions;
+namespace hoangtu\phpmvc\core\exceptions;
 
 class NotFoundException extends \Exception
 {

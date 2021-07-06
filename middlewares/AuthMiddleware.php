@@ -1,9 +1,9 @@
 <?php
 
-namespace hoangtu\core\middlewares;
+namespace hoangtu\phpmvc\core\middlewares;
 
-use hoangtu\core\Application;
-use hoangtu\core\exceptions\ForbiddenException;
+use hoangtu\phpmvc\core\Application;
+use hoangtu\phpmvc\core\exceptions\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

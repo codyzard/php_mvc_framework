@@ -1,8 +1,8 @@
 <?php
 
-namespace hoangtu\core\form;
+namespace hoangtu\phpmvc\core\form;
 
-use hoangtu\core\Model;
+use hoangtu\phpmvc\core\Model;
 
 abstract class BaseField
 {

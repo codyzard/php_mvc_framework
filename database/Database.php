@@ -1,8 +1,8 @@
 <?php
 
-namespace hoangtu\core\database;
+namespace hoangtu\phpmvc\core\database;
 
-use hoangtu\core\Application;
+use hoangtu\phpmvc\core\Application;
 use PDO;
 
 class Database

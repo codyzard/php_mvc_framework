@@ -1,6 +1,6 @@
 <?php
 
-namespace hoangtu\core;
+namespace hoangtu\phpmvc\core;
 
 class Response{
     public function setStatusCode(int $code)
