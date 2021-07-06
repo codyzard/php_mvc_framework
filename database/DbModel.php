@@ -1,9 +1,9 @@
 <?php
 
-namespace hoangtu\phpmvc\database;
+namespace hoangtu\core\database;
 
-use hoangtu\phpmvc\Application;
-use hoangtu\phpmvc\Model;
+use hoangtu\core\Application;
+use hoangtu\core\Model;
 
 abstract class DbModel extends Model
 {

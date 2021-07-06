@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\middlewares;
+namespace hoangtu\core\middlewares;
 
-use app\core\Application;
-use app\core\exceptions\ForbiddenException;
+use hoangtu\core\Application;
+use hoangtu\core\exceptions\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

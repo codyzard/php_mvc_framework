@@ -1,8 +1,8 @@
 <?php
 
-namespace hoangtu\phpmvc\form;
+namespace hoangtu\core\form;
 
-use hoangtu\phpmvc\Model;
+use hoangtu\core\Model;
 
 class Form
 {

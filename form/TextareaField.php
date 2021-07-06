@@ -1,6 +1,6 @@
 <?php
 
-namespace hoangtu\phpmvc\form;
+namespace hoangtu\core\form;
 
 class TextareaField extends BaseField
 {

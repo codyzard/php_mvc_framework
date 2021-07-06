@@ -1,10 +1,10 @@
 <?php
 
-namespace hoangtu\phpmvc;
+namespace hoangtu\core;
 
-use hoangtu\phpmvc\database\Database;
-use hoangtu\phpmvc\database\DbModel;
-use app\models\User;
+use hoangtu\core\database\Database;
+use hoangtu\core\database\DbModel;
+use hoangtu\models\User;
 
 class Application
 {

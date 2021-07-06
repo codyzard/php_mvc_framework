@@ -1,6 +1,6 @@
 <?php
 
-namespace hoangtu\phpmvc\middlewares;
+namespace hoangtu\core\middlewares;
 
 abstract class BaseMiddleware
 {

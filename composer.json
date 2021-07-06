@@ -1,16 +1,16 @@
 {
-    "name": "hoangtu/php-mvc-core",
-    "authors": [
-        {
-            "name": "hoang Tu",
-            "email": "mrahn1234@gmail.com"
-        }
-    ],
-    "autoload": {
-        "psr-4":{
-            "hoangtu\\phpmvc\\": "."
-        }
-    },
-    "require": {},
-    "minimum-stability": "dev"
+  "name": "hoangtu/php-mvc-core",
+  "authors": [
+    {
+      "name": "hoang Tu",
+      "email": "mrahn1234@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "hoangtu\\": "."
+    }
+  },
+  "require": {},
+  "minimum-stability": "dev"
 }

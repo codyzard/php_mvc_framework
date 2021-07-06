@@ -1,9 +1,9 @@
 <?php
 
 
-namespace hoangtu\phpmvc;
+namespace hoangtu\core;
 
-use hoangtu\phpmvc\middlewares\BaseMiddleware;
+use hoangtu\core\middlewares\BaseMiddleware;
 
 class BaseController
 {
