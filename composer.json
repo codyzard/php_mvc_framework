@@ -11,6 +11,9 @@
       "hoangtu\\": "."
     }
   },
-  "require": {},
+  "require": {
+    "vlucas/phpdotenv": "^5.3",
+    "hoangtu/php-mvc-core": "^1.0.3"
+  },
   "minimum-stability": "dev"
 }
